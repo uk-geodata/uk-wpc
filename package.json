@@ -1,0 +1,23 @@
+{
+    "name": "uk-wpc",
+    "version": "1.0.0",
+    "description": "Geodata for Westminster Parliamentary Constituencies",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/uk-geodata/uk-wpc.git"
+    },
+    "author": "",
+    "license": "",
+    "bugs": {
+        "url": "https://github.com/uk-geodata/uk-wpc/issues"
+    },
+    "homepage": "https://github.com/uk-geodata/uk-wpc#readme",
+    "dependencies": {
+        "@mapbox/geojson-merge": "^1.1.1",
+        "topojson-server": "^3.0.1"
+    }
+}
